@@ -1,0 +1,4 @@
+{
+  "summary": "Built a single-file Redline Mars hero in index.html: a Three.js r170 orthographic planet that grows in front of the MARS word, slides into a Tharsis site timeline with a crimson region and hover photo card, then dives through dust into a canyon landing with the site name between rock layers and a booking bar. Verified all three steps in the browser on desktop and a phone-sized viewport. The map seam is feathered by flipping the left edge onto the right so the wrap meets.",
+  "current_status": "The hero is complete in index.html and served at http://127.0.0.1:8765/. Mars, Tharsis, and the landing all play as one continuous camera move."
+}
